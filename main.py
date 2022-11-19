@@ -84,7 +84,7 @@
 # 
 # ###### Step 6: Ensemble
 # 
-# The best models of the previous step are selected and we build a Weighted Blending Ensemble to achieve a final XXXX f1-score. To do it, we tested the combinations of the 2, 3, 4, ..., N best models that have been obtained in the previous step, where N is optimized to get the best result. The weights of the models are obtained by optimization with the validation predictions.
+# The best models of the previous step are selected and we build a Weighted Blending Ensemble to achieve a final 0.82378 f1-score. To do it, we tested the combinations of the 2, 3, 4, ..., N best models that have been obtained in the previous step, where N is optimized to get the best result. The weights of the models are obtained by optimization with the validation predictions.
 # 
 # 
 # ---
